@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
